@@ -1,7 +1,7 @@
 ### Hi 👋
 ## 내가 바로 장원준이다.
 
-<a href="https://wonjun1995.tistory.com/"><img src="https://img.shields.io/badge/tistory-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://wonjun1995.tistory.com/"><img src="https://img.shields.io/badge/tistory-#FFDD00?style=flat-square&logo=Buy Me A Coffee&logoColor=white"/></a>
 
 
 ### Tech Skill
