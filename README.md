@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![wonjun1995's github stats](https://github-readme-stats.vercel.app/api?username=wonjun1995&show_icons=true)
-[![wonjun1995's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wonjun1995&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wonjun1995)
 
 <!--
 **wonjun1995/wonjun1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
